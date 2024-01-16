@@ -1,0 +1,38 @@
+[
+  {
+    "name": "The Lake View",
+    "price": "47,043,020",
+    "detail": "No 31 Jakarta Garden City Sunshine Street, Maitama Abuja, Nigeria",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sunny Garden City",
+    "price": "66,353,170",
+    "detail": "No 89 Tranquil Lane, Port Harcourt, Nigeria",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Hearty Resorts Temple",
+    "price": "35,853,204",
+    "detail": "56 Harmony Avenue, 5th ave Lagos, Nigeria",
+    "image": "./r3.png"
+  },
+  {
+    "name": "The Loveth Space ",
+    "price": "43,043,070",
+    "detail": "101 Serenity Crescent, Kano, Nigeria",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sin Garden City",
+    "price": "66,353,000",
+    "detail": "21 Peaceful Road, Enugu, Nigeria",
+    "image": "./r2.png"
+  },
+  {
+    "name": "SunCIty Estate",
+    "price": "34,863,000",
+    "detail": "21 Righteous Road, Anambra, Nigeria",
+    "image": "./r3.png"
+  }
+]
